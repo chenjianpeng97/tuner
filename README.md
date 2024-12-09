@@ -1,2 +1,2 @@
-# tuner
-Seldom is an automation testing framework based on behave.
+# Tuner
+Tuner is an automation testing framework based on behave.
